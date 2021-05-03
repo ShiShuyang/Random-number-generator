@@ -1,0 +1,12 @@
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\bin\Debug\netstandard2.0\随机数生成器.deps.json
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\bin\Debug\netstandard2.0\随机数生成器.dll
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\bin\Debug\netstandard2.0\随机数生成器.pdb
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\obj\Debug\netstandard2.0\随机数生成器.csprojAssemblyReference.cache
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\obj\Debug\netstandard2.0\随机数生成器.csproj.CoreCompileInputs.cache
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\obj\Debug\netstandard2.0\随机数生成器.AssemblyInfoInputs.cache
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\obj\Debug\netstandard2.0\随机数生成器.AssemblyInfo.cs
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\obj\Debug\netstandard2.0\XamlC.stamp
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\obj\Debug\netstandard2.0\随机数生成器.dll
+E:\自己玩的程序\随机数生成器\随机数生成器\随机数生成器\obj\Debug\netstandard2.0\随机数生成器.pdb

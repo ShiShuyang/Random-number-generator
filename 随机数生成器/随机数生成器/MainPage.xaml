@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:随机数生成器"
+             x:Class="随机数生成器.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+    	<Label Text="随机数生成器" HorizontalOptions="Center" />
+        <Editor x:Name="text1" Keyboard="Numeric" FontSize="Large"  ></Editor>
+        <Editor x:Name="text2" Keyboard="Numeric" FontSize="Large"></Editor>
+        <Label Text="结果" x:Name="label1" HorizontalOptions="Center"></Label>
+        <Button x:Name="Button1" Text="确认" Clicked="Button1_Clicked"></Button>
+    </StackLayout>
+
+</ContentPage>
